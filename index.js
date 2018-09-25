@@ -2,6 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 ReactDOM.render(
-  React.createElement("div", null, "Hello Dev Bahia"),
+  <h1>Hello Dev Bahia</h1>,
   document.getElementById("root")
 );

@@ -4,7 +4,7 @@
   "description": "A site do Bahia's developers and software community",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server index.js"
+    "start": "webpack-dashboard -- webpack-dev-server index.js"
   },
   "repository": "https://github.com/danielcn/devbahia.git",
   "author": "Daniel Nascimento <danascimen@thoughtworks.com>",

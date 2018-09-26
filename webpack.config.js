@@ -4,6 +4,7 @@ const config = {
   entry: [
     './index.js',
   ],
+  watch: true,
   module: {
     rules: [
       {

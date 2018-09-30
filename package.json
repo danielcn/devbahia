@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server src/index.js",
-    "test:snapshot": "jest --config ./test/jest.config.json",
+    "test": "jest --config ./test/jest.config.json",
     "test:snapshot:watch": "npm run test:snapshot -- --watch"
   },
   "repository": "https://github.com/danielcn/devbahia.git",
@@ -13,15 +13,21 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "@babel/core": "^7.1.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2"
   },
   "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
     "@babel/preset-react": "^7.0.0",
+    "babel-core": "^7.0.0-0",
+    "babel-jest": "^23.6.0",
     "babel-loader": "^8.0.2",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
     "jest": "^23.6.0",
     "react-test-renderer": "^16.5.2",
+    "regenerator-runtime": "^0.12.1",
     "webpack": "^4.19.1",
     "webpack-cli": "^3.1.1",
     "webpack-dev-server": "^3.1.8"

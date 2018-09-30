@@ -3,15 +3,18 @@
   "version": "1.0.0",
   "description": "A site do Bahia's developers and software community",
   "main": "index.js",
-  "scripts": {
-    "start": "webpack-dev-server src/index.js",
-    "test": "jest --config ./test/jest.config.json",
-    "test:snapshot:watch": "npm run test:snapshot -- --watch"
-  },
   "repository": "https://github.com/danielcn/devbahia.git",
   "author": "Daniel Nascimento <danascimen@thoughtworks.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "start": "webpack-dev-server src/index.js",
+    "test": "jest --config ./test/jest.config.json",
+    "test:snapshot:watch": "npm run test -- --watch"
+  },
+  "jest": {
+    "setupTestFrameworkScriptFile": "./src/setupTests.js"
+  },
   "dependencies": {
     "react": "^16.5.2",
     "react-dom": "^16.5.2"
@@ -25,6 +28,8 @@
     "babel-loader": "^8.0.2",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
+    "enzyme": "^3.6.0",
+    "enzyme-adapter-react-16": "^1.5.0",
     "jest": "^23.6.0",
     "react-test-renderer": "^16.5.2",
     "regenerator-runtime": "^0.12.1",

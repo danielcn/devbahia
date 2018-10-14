@@ -7,6 +7,10 @@ Este é uma iniciativa para compilar e exibir os eventos de TI que estão ocorre
 
 #### Executando o projeto
 
+#### Libs
+
+* [Material UI](https://material-ui.com)
+
 
 #### Testando
 

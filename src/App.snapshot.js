@@ -1,4 +1,6 @@
 import React from 'react';
+import Card from '@material-ui/core/Card';
+import CardContent from '@material-ui/core/CardContent';
 import renderer from 'react-test-renderer';
 import Adapter from 'enzyme-adapter-react-16';
 import { shallow, configure } from 'enzyme';
@@ -18,7 +20,7 @@ describe('App Snapshot', () => {
 
     test('should render without throwing an error', function() {
       const wrapper = shallow(<App />);
-      expect(wrapper.contains(<div><h1>Hello Dev Bahia</h1></div> )).toBe(true);
+      expect(wrapper.contains(<h1>Hello Dev Bahia</h1>)).toBe(true);
     });
-  
+
 });

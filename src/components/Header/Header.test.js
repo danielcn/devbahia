@@ -3,24 +3,24 @@ import renderer from 'react-test-renderer';
 import Adapter from 'enzyme-adapter-react-16';
 import { shallow, configure } from 'enzyme';
 
-import Home from './pages/Home'
+import Typography from '@material-ui/core/Typography';
 
 configure({adapter: new Adapter()});
 
-import App from './App';
+import Header from './index';
 
-describe('App Snapshot', () => {
+describe('Header Snapshot', () => {
     test('renders', () => {
       const component = renderer.create(
-        <App />
+        <Header />
       );
       let tree = component.toJSON();
       expect(tree).toMatchSnapshot();
     });
 
     test('should render without throwing an error', function() {
-      const wrapper = shallow(<App />);
-      expect(wrapper.contains(<Home />)).toBe(true);
+      const wrapper = shallow(<Header />);
+      expect(wrapper.contains(<Typography variant="h6" color="inherit">Dev Bahia</Typography>)).toBe(true);
     });
 
 });

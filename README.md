@@ -7,10 +7,13 @@ Este é uma iniciativa para compilar e exibir os eventos de TI que estão ocorre
 
 #### Executando o projeto
 
+#### Executando no docker
+
 #### Libs
 
 * [Material UI](https://material-ui.com)
 
+#### Styleguide
 
 #### Testando
 

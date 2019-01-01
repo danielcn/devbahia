@@ -5,7 +5,7 @@ import Card from '@material-ui/core/Card';
 import CardActions from '@material-ui/core/CardActions';
 import CardContent from '@material-ui/core/CardContent';
 
-import Header from '../../components/Header';
+import Header from '../../components/Header/Header';
 
 class Home extends Component {
     render () {
@@ -15,6 +15,21 @@ class Home extends Component {
                 <Card>
                     <CardContent>
                         <h1>Hello Dev Bahia</h1>
+                        <CardActions>
+                            <Button size="small" color="primary">Learn More</Button>
+                        </CardActions>
+                        <CardActions>
+                            <Button size="small" color="primary">Learn More</Button>
+                        </CardActions>
+                        <CardActions>
+                            <Button size="small" color="primary">Learn More</Button>
+                        </CardActions>
+                        <CardActions>
+                            <Button size="small" color="primary">Learn More</Button>
+                        </CardActions>
+                        <CardActions>
+                            <Button size="small" color="primary">Learn More</Button>
+                        </CardActions>
                         <CardActions>
                             <Button size="small" color="primary">Learn More</Button>
                         </CardActions>

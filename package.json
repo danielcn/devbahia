@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server src/index.js",
-    "test": "jest --config ./test/jest.config.json",
+    "test": "jest --config ./config/test/jest/jest.config.json",
     "test:snapshot:watch": "npm run test -- --watch"
   },
   "repository": "https://github.com/danielcn/devbahia.git",

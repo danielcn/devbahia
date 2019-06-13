@@ -8,6 +8,13 @@ import CardContent from '@material-ui/core/CardContent';
 import Header from '../../components/Header/Header';
 import MediaCard from '../../components/Card/MediaCard';
 
+const fethedArray = [1, 2, 3, 4, 5 , 6, 7];
+
+const mediaCards = () => fethedArray.map((index, value) => {
+    // <MediaCard />
+    return console.log(index, value);
+});
+
 class Home extends Component {
     render () {
         return (
@@ -16,16 +23,7 @@ class Home extends Component {
                 <Card>
                     <CardContent>
                         <h1>Hello Dev Bahia</h1>
-                        <MediaCard />
-                        <MediaCard />
-                        <MediaCard />
-                        <MediaCard />
-                        <MediaCard />
-                        <MediaCard />
-                        <MediaCard />
-                        <MediaCard />
-                        <MediaCard />
-                        <MediaCard />
+                        { mediaCards()}
                     </CardContent>
                 </Card>
             </div>

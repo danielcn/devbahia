@@ -5,16 +5,14 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server src/index.js",
-    "test": "jest --config ./config/test/jest/jest.config.json",
-    "test:snapshot:watch": "npm run test -- --watch"
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage --colors"
   },
   "repository": "https://github.com/danielcn/devbahia.git",
   "author": "Daniel Nascimento <danascimen@thoughtworks.com>",
   "license": "MIT",
   "private": false,
-  "jest": {
-    "setupTestFrameworkScriptFile": "./src/setupTests.js"
-  },
   "dependencies": {
     "@material-ui/core": "^3.2.0",
     "@material-ui/icons": "^3.0.1",
@@ -23,6 +21,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.1.2",
+    "@babel/polyfill": "^7.0.0-beta.51",
     "@babel/preset-env": "^7.1.0",
     "@babel/preset-react": "^7.0.0",
     "babel-core": "^7.0.0-0",
@@ -32,7 +31,7 @@
     "babel-preset-react": "^6.24.1",
     "enzyme": "^3.6.0",
     "enzyme-adapter-react-16": "^1.5.0",
-    "jest": "^23.6.0",
+    "jest": "^24.8.0",
     "react-test-renderer": "^16.5.2",
     "regenerator-runtime": "^0.12.1",
     "webpack": "^4.19.1",

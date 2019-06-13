@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MediaCard Test Should render with snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`MediaCard Test Suite Should have an image 1`] = `ShallowWrapper {}`;

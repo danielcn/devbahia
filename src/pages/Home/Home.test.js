@@ -1,24 +1,17 @@
 import React from 'react';
-import renderer from 'react-test-renderer';
 import Adapter from 'enzyme-adapter-react-16';
-import { shallow, configure } from 'enzyme';
+import { shallow } from 'enzyme';
 
-configure({adapter: new Adapter()});
-
-import Home from './index';
+import Home from './Home';
 
 describe('Header Snapshot', () => {
     test('renders', () => {
-      const component = renderer.create(
-        <Home />
-      );
-      let tree = component.toJSON();
-      expect(tree).toMatchSnapshot();
+      const home = shallow(<Home />);
+      expect(home).toMatchSnapshot();
     });
 
     test('should render without throwing an error', function() {
-      const wrapper = shallow(<Home />);
-      expect(wrapper.contains(<h1>Hello Dev Bahia</h1>)).toBe(true);
+      const home = shallow(<Home />);
+      expect(home.contains(<h1>Hello Dev Bahia</h1>)).toBe(true);
     });
-
 });

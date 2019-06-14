@@ -1,12 +1,8 @@
 import React, {Component} from 'react';
-
-import Button from '@material-ui/core/Button';
 import Card from '@material-ui/core/Card';
-import CardActions from '@material-ui/core/CardActions';
 import CardContent from '@material-ui/core/CardContent';
 
 import Header from '../../components/Header/Header';
-import MediaCard from '../../components/Card/MediaCard';
 
 const fethedArray = [1, 2, 3, 4, 5 , 6, 7];
 

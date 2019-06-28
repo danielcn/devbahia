@@ -1,0 +1,31 @@
+{
+  "merchantId": 1386,
+  "cpf": "44171855810",
+  "cnpj": null,
+  "registryName": "Guilherme Nunes teste3",
+  "fantasyName": "Guilherme Nunes teste3",
+  "email": "guilherme.nunes@ntk.com.br",
+  "contactName": "15 997689913",
+  "phone": "15997689913",
+  "additionalPhone": null,
+  "address": {
+    "country": "Brasil",
+    "state": "SP",
+    "city": "São Paulo",
+    "zipCode": "04551010",
+    "neighborhood": "Vila Olímpia",
+    "addressName": "Rua Fidêncio Ramos",
+    "addressNumber": 99,
+    "complementaryAddress": "2º Andar"
+  },
+  "bank": {
+    "creditor": "Guilherme Nunes",
+    "name": "Banco do Brasil S.A.",
+    "account": "24670-0",
+    "agency": "6931-0",
+    "code": "001"
+  },
+  "municipalRegistration": null,
+  "legalType": "Pessoa Fisica",
+  "categoryDescription": "20799 ALFAIATARIAS/CAMISARIAS"
+}

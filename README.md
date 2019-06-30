@@ -16,6 +16,10 @@ Este é uma iniciativa para compilar e exibir os eventos de TI que estão ocorre
 #### Styleguide
 
 #### Testando
+### Testes unitários
+
+### Testes funcionais
+
 
 
 #### Contribuindo

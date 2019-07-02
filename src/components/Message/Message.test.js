@@ -6,13 +6,13 @@ function setup() {
   const props = {
     imgPath: 'some/image/path/to/a/mock/image',
   };
-  const wrapper = shallow(<Message />);
-  return { wrapper, props };
+  const message = shallow(<Message />);
+  return { message, props };
 }
 
 describe('Message Test Suite', () => {
   it('Should have an image', () => {
-    const { wrapper } = setup();
-    expect(wrapper.find('img').exists()).toBe(true);
+    const { message } = setup();
+    expect(message.find('img').exists()).toBe(true);
   });
 });

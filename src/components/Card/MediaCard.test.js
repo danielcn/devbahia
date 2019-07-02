@@ -20,7 +20,6 @@ describe('MediaCard Test', () => {
     };
     
     const mediaCard = shallow(<MediaCard />);
-    console.log(mediaCard.find('Card').debug());
-    // expect(mediaCard.find('Card').debug());
+    expect(mediaCard.find('Card')).toHaveLength(1);
   });
 });

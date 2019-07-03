@@ -1,31 +1,233 @@
-{
-  "merchantId": 1386,
-  "cpf": "44171855810",
-  "cnpj": null,
-  "registryName": "Guilherme Nunes teste3",
-  "fantasyName": "Guilherme Nunes teste3",
-  "email": "guilherme.nunes@ntk.com.br",
-  "contactName": "15 997689913",
-  "phone": "15997689913",
-  "additionalPhone": null,
-  "address": {
-    "country": "Brasil",
-    "state": "SP",
-    "city": "São Paulo",
-    "zipCode": "04551010",
-    "neighborhood": "Vila Olímpia",
-    "addressName": "Rua Fidêncio Ramos",
-    "addressNumber": 99,
-    "complementaryAddress": "2º Andar"
+[
+  {
+    "startDate": "2019-07-02T00:00:00.000Z",
+    "name": "Construindo um ambiente de banco de dados",
+    "addressLocality": "Sete Lagoas  35700-312",
+    "organizer": "GDG-Sete-Lagoas",
+    "url": "https://www.meetup.com/GDG-Sete-Lagoas/events/262789122/"
   },
-  "bank": {
-    "creditor": "Guilherme Nunes",
-    "name": "Banco do Brasil S.A.",
-    "account": "24670-0",
-    "agency": "6931-0",
-    "code": "001"
+  {
+    "startDate": "2019-07-03T00:00:00.000Z",
+    "name": "FinTech &amp; Blockchain #2 - Justiça Descentralizada",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "BlockchainBH-Meetup",
+    "url": "https://www.meetup.com/BlockchainBH-Meetup/events/262710202/"
   },
-  "municipalRegistration": null,
-  "legalType": "Pessoa Fisica",
-  "categoryDescription": "20799 ALFAIATARIAS/CAMISARIAS"
-}
+  {
+    "startDate": "2019-07-04T00:00:00.000Z",
+    "name": "37º CocoaTalks BH",
+    "addressLocality": "Belo Horizonte  30110-051",
+    "organizer": "CocoaHeads-Talks-BH",
+    "url": "https://www.meetup.com/CocoaHeads-Talks-BH/events/262787986/"
+  },
+  {
+    "startDate": "2019-07-04T00:00:00.000Z",
+    "name": "Internet das Coisas: riscos e ameaças",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "TechShot",
+    "url": "https://www.meetup.com/TechShot/events/262652885/"
+  },
+  {
+    "startDate": "2019-07-04T00:00:00.000Z",
+    "name": "3º Encontro Comunidade WordPress BH de 2019",
+    "addressLocality": "Belo Horizonte  30130-151",
+    "organizer": "WordPressBeloHorizonte",
+    "url": "https://www.meetup.com/WordPressBeloHorizonte/events/262453116/"
+  },
+  {
+    "startDate": "2019-07-05T00:00:00.000Z",
+    "name": "Machine Learning #1",
+    "addressLocality": "Belo Horizonte  30112-010",
+    "organizer": "Google-Cloud-Developer-Community-Belo-Horizonte",
+    "url": "https://www.meetup.com/Google-Cloud-Developer-Community-Belo-Horizonte/events/262620891/"
+  },
+  {
+    "startDate": "2019-07-06T00:00:00.000Z",
+    "name": "Android Fest BH 2019",
+    "addressLocality": "Belo Horizonte  30170-050",
+    "organizer": "GDG-BH",
+    "url": "https://www.meetup.com/GDG-BH/events/262024272/"
+  },
+  {
+    "startDate": "2019-07-09T00:00:00.000Z",
+    "name": "beer.php",
+    "addressLocality": "Belo Horizonte  30130-020",
+    "organizer": "PHP-MG",
+    "url": "https://www.meetup.com/PHP-MG/events/262798041/"
+  },
+  {
+    "startDate": "2019-07-09T00:00:00.000Z",
+    "name": "Soft Skils: Como combater a Síndrome do Impostor",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "TechShot",
+    "url": "https://www.meetup.com/TechShot/events/262101279/"
+  },
+  {
+    "startDate": "2019-07-09T00:00:00.000Z",
+    "name": "Beer.vue",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "Vuejs-at-BH",
+    "url": "https://www.meetup.com/Vuejs-at-BH/events/262636050/"
+  },
+  {
+    "startDate": "2019-07-10T00:00:00.000Z",
+    "name": "#8 Benefícios na Transição do Modelo Tradicional para Ágil",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "Testing-Dojo-Uai",
+    "url": "https://www.meetup.com/Testing-Dojo-Uai/events/262783455/"
+  },
+  {
+    "startDate": "2019-07-11T00:00:00.000Z",
+    "name": "JS Tech Talk: Tema a definir [Call for papers aberto]",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "beagajs",
+    "url": "https://www.meetup.com/beagajs/events/262578805/"
+  },
+  {
+    "startDate": "2019-07-12T00:00:00.000Z",
+    "name": "Meetup de Julho/2019",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "minas-da-ti",
+    "url": "https://www.meetup.com/minasdati/events/262775954/"
+  },
+  {
+    "startDate": "2019-07-13T00:00:00.000Z",
+    "name": "Meetup #9 - Vue.js &amp; Sistemas inclusivos e acessíveis",
+    "addressLocality": "Divinópolis  35503-822",
+    "organizer": "GDG-Divinopolis",
+    "url": "https://www.meetup.com/GDG-Divinopolis/events/262651475/"
+  },
+  {
+    "startDate": "2019-07-18T00:00:00.000Z",
+    "name": "6° Meetup Engenharia de Dados",
+    "addressLocality": "Belo Horizonte  30112-021",
+    "organizer": "engenharia-de-dados",
+    "url": "https://www.meetup.com/engenharia-de-dados/events/262790140/"
+  },
+  {
+    "startDate": "2019-07-25T00:00:00.000Z",
+    "name": "PyData BH",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "PyData-Belo-Horizonte",
+    "url": "https://www.meetup.com/PyData-Belo-Horizonte/events/261284529/"
+  },
+  {
+    "startDate": "2019-08-13T00:00:00.000Z",
+    "name": "beer.php",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "PHP-MG",
+    "url": "https://www.meetup.com/PHP-MG/events/lvgvbryzlbrb/"
+  },
+  {
+    "startDate": "2019-08-13T00:00:00.000Z",
+    "name": "Beer.vue",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "Vuejs-at-BH",
+    "url": "https://www.meetup.com/Vuejs-at-BH/events/262775919/"
+  },
+  {
+    "startDate": "2019-08-22T00:00:00.000Z",
+    "name": "PyData BH",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "PyData-Belo-Horizonte",
+    "url": "https://www.meetup.com/PyData-Belo-Horizonte/events/sqwxqqyzlbdc/"
+  },
+  {
+    "startDate": "2019-09-10T00:00:00.000Z",
+    "name": "beer.php",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "PHP-MG",
+    "url": "https://www.meetup.com/PHP-MG/events/lvgvbryzmbnb/"
+  },
+  {
+    "startDate": "2019-09-10T00:00:00.000Z",
+    "name": "Beer.vue",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "Vuejs-at-BH",
+    "url": "https://www.meetup.com/Vuejs-at-BH/events/gqxvrqyzmbnb/"
+  },
+  {
+    "startDate": "2019-09-26T00:00:00.000Z",
+    "name": "PyData BH",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "PyData-Belo-Horizonte",
+    "url": "https://www.meetup.com/PyData-Belo-Horizonte/events/sqwxqqyzmbjc/"
+  },
+  {
+    "startDate": "2019-10-08T00:00:00.000Z",
+    "name": "beer.php",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "PHP-MG",
+    "url": "https://www.meetup.com/PHP-MG/events/lvgvbryznblb/"
+  },
+  {
+    "startDate": "2019-10-08T00:00:00.000Z",
+    "name": "Beer.vue",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "Vuejs-at-BH",
+    "url": "https://www.meetup.com/Vuejs-at-BH/events/gqxvrqyznblb/"
+  },
+  {
+    "startDate": "2019-10-24T00:00:00.000Z",
+    "name": "PyData BH",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "PyData-Belo-Horizonte",
+    "url": "https://www.meetup.com/PyData-Belo-Horizonte/events/sqwxqqyznbgc/"
+  },
+  {
+    "startDate": "2019-11-12T00:00:00.000Z",
+    "name": "beer.php",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "PHP-MG",
+    "url": "https://www.meetup.com/PHP-MG/events/lvgvbryzpbqb/"
+  },
+  {
+    "startDate": "2019-11-12T00:00:00.000Z",
+    "name": "Beer.vue",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "Vuejs-at-BH",
+    "url": "https://www.meetup.com/Vuejs-at-BH/events/gqxvrqyzpbqb/"
+  },
+  {
+    "startDate": "2019-11-28T00:00:00.000Z",
+    "name": "PyData BH",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "PyData-Belo-Horizonte",
+    "url": "https://www.meetup.com/PyData-Belo-Horizonte/events/sqwxqqyzpblc/"
+  },
+  {
+    "startDate": "2019-12-10T00:00:00.000Z",
+    "name": "beer.php",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "PHP-MG",
+    "url": "https://www.meetup.com/PHP-MG/events/lvgvbryzqbnb/"
+  },
+  {
+    "startDate": "2019-12-10T00:00:00.000Z",
+    "name": "Beer.vue",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "Vuejs-at-BH",
+    "url": "https://www.meetup.com/Vuejs-at-BH/events/gqxvrqyzqbnb/"
+  },
+  {
+    "startDate": "2019-12-14T00:00:00.000Z",
+    "name": "Machine Learning Experience Summit [Pre Inscrição]",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "meetup-machine-Learning-experience",
+    "url": "https://www.meetup.com/meetup-machine-Learning-experience/events/260652102/"
+  },
+  {
+    "startDate": "2019-12-14T00:00:00.000Z",
+    "name": "Machine Learning Experience Summit [Pre Inscrição]",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "Meetup-de-Machine-Learning-Belo-Horizonte",
+    "url": "https://www.meetup.com/meetup-machine-Learning-experience/events/260652102/"
+  },
+  {
+    "startDate": "2019-12-26T00:00:00.000Z",
+    "name": "PyData BH",
+    "addressLocality": "Belo Horizonte",
+    "organizer": "PyData-Belo-Horizonte",
+    "url": "https://www.meetup.com/PyData-Belo-Horizonte/events/sqwxqqyzqbjc/"
+  }
+]

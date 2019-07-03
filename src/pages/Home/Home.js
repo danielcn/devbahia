@@ -2,12 +2,12 @@ import React, {Component} from 'react';
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
 import Header from '../../components/Header/Header';
+import MediaCard from '../../components/Card/MediaCard';
 
 const fethedArray = [1, 2, 3, 4, 5 , 6, 7];
 
 const mediaCards = () => fethedArray.map((index, value) => {
-  // <MediaCard />
-  return console.log(index, value);
+  return <MediaCard  key={index} />;
 });
 
 class Home extends Component {
@@ -18,7 +18,7 @@ class Home extends Component {
         <Card>
           <CardContent>
             <h1>Hello Dev Bahia</h1>
-            { mediaCards()}
+            { mediaCards() }
           </CardContent>
         </Card>
       </div>

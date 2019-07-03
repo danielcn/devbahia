@@ -1,7 +1,6 @@
 import React from 'react';
-import { shallow } from 'enzyme';
+import { shallow, mount } from 'enzyme';
 import MediaCard from './MediaCard';
-import Card from '@material-ui/core/Card';
 
 describe('MediaCard Test', () => {
   it('Should render with snapshot', () => {
@@ -19,7 +18,7 @@ describe('MediaCard Test', () => {
       },
     };
     
-    const mediaCard = shallow(<MediaCard />);
+    const mediaCard = mount(<MediaCard />);
     expect(mediaCard.find('Card')).toHaveLength(1);
   });
 });

@@ -1,3 +1,334 @@
-{
-  "categoryDescription": "20799 ALFAIATARIAS/CAMISARIAS"
-}
+[
+  {
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "url": "https://github.com/frontendbr/vagas/issues/2174",
+    "level": "Front-End Developer",
+    "company": "@[Glow]",
+    "vendor": "frontendbr"
+  },
+  {
+    "role": "Programação, Front-End",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://weworkremotely.com/remote-jobs/openplay-php-laravel-developer",
+    "level": "PHP/Laravel developer",
+    "company": "@OpenPlay",
+    "vendor": "weworkremotely"
+  },
+  {
+    "role": "Programação, Back-End",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://weworkremotely.com/remote-jobs/alter-inc-ui-ux-designer-for-an-mobile-ar-startup",
+    "level": "UI/UX Designer for an Mobile AR Startup",
+    "company": "@Alter Inc.",
+    "vendor": "weworkremotely"
+  },
+  {
+    "role": "Design",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://remoteok.io/remote-jobs/73734",
+    "level": "Lead Developer",
+    "company": "@Barilliance",
+    "vendor": "remoteok"
+  },
+  {
+    "role": "Programação, Manager",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://www.workingnomads.co/job/go/26877/",
+    "level": "Machine Learning Engineer - Remote",
+    "company": "@Numbrs Personal Finance AG",
+    "vendor": "workingnomads"
+  },
+  {
+    "role": "Programação",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://stackoverflow.com/jobs/278986/ios-developer-squire?a=1vyV8EWev4u4",
+    "level": "iOS Developer",
+    "company": "@Squire",
+    "vendor": "stackoverflow"
+  },
+  {
+    "role": "Programação, Mobile",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://jobspresso.co/job/director-of-marketing-3-3-2-2/",
+    "level": "Customer Support Engineer",
+    "company": "@Close.io",
+    "vendor": "jobspresso"
+  },
+  {
+    "role": "Programação, Suporte",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://jobspresso.co/job/senior-data-product-manager-2-2-2-2/",
+    "level": "Product Marketing Manager",
+    "company": "@The Democratic National Committee",
+    "vendor": "jobspresso"
+  },
+  {
+    "role": "Manager",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://jobspresso.co/job/director-of-marketing-3-3-2-2/",
+    "level": "Customer Support Engineer",
+    "company": "@Close.io",
+    "vendor": "jobspresso"
+  },
+  {
+    "role": "Programação, Suporte",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "url": "https://github.com/backend-br/vagas/issues/1306",
+    "level": "Desenvolvedor .NET",
+    "company": "@GrupoDSrh",
+    "vendor": "backendbr"
+  },
+  {
+    "role": "Programação, Back-End",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://weworkremotely.com/remote-jobs/wave-video-front-end-engineer-java-kotlin-in-innovative-product-company",
+    "level": "Front End Engineer Java/Kotlin in innovative product company",
+    "company": "@Wave.video",
+    "vendor": "weworkremotely"
+  },
+  {
+    "role": "Programação, Mobile, Front-End",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://remoteok.io/remote-jobs/73732",
+    "level": "Founding Tech Lead Engineering Manager",
+    "company": "@Trellis Technologies",
+    "vendor": "remoteok"
+  },
+  {
+    "role": "Programação, Manager",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://www.workingnomads.co/job/go/26875/",
+    "level": "Software Engineer, Android - Remote",
+    "company": "@Numbrs Personal Finance AG",
+    "vendor": "workingnomads"
+  },
+  {
+    "role": "Programação, Mobile",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "url": "https://github.com/backend-br/vagas/issues/1305",
+    "level": "Back-End Developer",
+    "company": "@[Glow]",
+    "vendor": "backendbr"
+  },
+  {
+    "role": "Programação, Back-End",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://remoteok.io/remote-jobs/73730",
+    "level": "IOS Developer",
+    "company": "@Squire",
+    "vendor": "remoteok"
+  },
+  {
+    "role": "Programação, Mobile",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://www.workingnomads.co/job/go/26873/",
+    "level": "Software Engineer, Backend - Remote",
+    "company": "@Numbrs Personal Finance AG",
+    "vendor": "workingnomads"
+  },
+  {
+    "role": "Programação, Back-End",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "url": "https://github.com/backend-br/vagas/issues/1304",
+    "level": "Desenvolvedor BackEnd",
+    "company": "@PONTALTECH",
+    "vendor": "backendbr"
+  },
+  {
+    "role": "Programação, Back-End",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "url": "https://github.com/soujava/vagas-java/issues/263",
+    "level": "Desenvolvedor (a) Java",
+    "company": "@DB1 Anymarket",
+    "vendor": "soujava"
+  },
+  {
+    "role": "Programação, Back-End",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://www.workingnomads.co/job/go/26871/",
+    "level": "Senior Software Engineer, iOS - Remote",
+    "company": "@Numbrs Personal Finance AG",
+    "vendor": "workingnomads"
+  },
+  {
+    "role": "Programação, Mobile",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "url": "https://github.com/backend-br/vagas/issues/1303",
+    "level": "Desenvolvedor BackEnd",
+    "company": "@TOTAL VOICE",
+    "vendor": "backendbr"
+  },
+  {
+    "role": "Programação, Back-End",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://stackoverflow.com/jobs/279268/front-end-developer-critical-mass?a=1vEMGiW1TcOs",
+    "level": "Front End Developer",
+    "company": "@Critical Mass",
+    "vendor": "stackoverflow"
+  },
+  {
+    "role": "Programação, Front-End",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://stackoverflow.com/jobs/279267/senior-front-end-developer-critical-mass?a=1vELonpuw2ek",
+    "level": "Senior Front End Developer",
+    "company": "@Critical Mass",
+    "vendor": "stackoverflow"
+  },
+  {
+    "role": "Programação, Front-End",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://crypto.jobs/jobs/solidity-engineer-remote-60-000-120-000-at-plexus",
+    "level": "Solidity Engineer – Remote",
+    "company": "@Plexus",
+    "vendor": "cryptojobs"
+  },
+  {
+    "role": "Programação, Blockchain",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://stackoverflow.com/jobs/272561/senior-devops-engineer-contract-remote-new-context-services?a=1tpkiq1Klot2",
+    "level": "Senior DevOps Engineer",
+    "company": "@New Context Services",
+    "vendor": "stackoverflow"
+  },
+  {
+    "role": "Programação, DevOps",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://stackoverflow.com/jobs/272558/senior-software-engineer-java-platform-interactions-llc?a=1tpgqDs8dSIE",
+    "level": "Senior Software Engineer - Java Platform",
+    "company": "@Interactions, LLC",
+    "vendor": "stackoverflow"
+  },
+  {
+    "role": "Programação, Back-End",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://stackoverflow.com/jobs/278989/founding-tech-lead-engineering-manager-trellis-technologies?a=1vyZ0rvQCAes",
+    "level": "Founding Tech Lead / Engineering Manager",
+    "company": "@Trellis Technologies",
+    "vendor": "stackoverflow"
+  },
+  {
+    "role": "Programação, Manager",
+    "Publicado": "2019-07-04T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://stackoverflow.com/jobs/252969/python-django-developer-daupler-inc-techstars-18?a=1mPX6zVEpfH2",
+    "level": "Python/Django Developer",
+    "company": "@Daupler, Inc.",
+    "vendor": "stackoverflow"
+  },
+  {
+    "role": "Programação, Back-End",
+    "Publicado": "2019-07-03T00:00:00.000Z",
+    "url": "https://app.vulpi.com.br/total-voice/1261",
+    "level": "Backend Developer",
+    "company": "@TOTAL VOICE",
+    "vendor": "vulpi"
+  },
+  {
+    "role": "Programação, Back-End",
+    "Publicado": "2019-07-03T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://weworkremotely.com/remote-jobs/nearform-senior-devops-engineer",
+    "level": "Senior DevOps Engineer",
+    "company": "@NearForm",
+    "vendor": "weworkremotely"
+  },
+  {
+    "role": "Programação, DevOps",
+    "Publicado": "2019-07-03T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://jobspresso.co/job/software-engineer-production-2-2-2-4-2-2/",
+    "level": "Senior Product Designer",
+    "company": "@Shopify",
+    "vendor": "jobspresso"
+  },
+  {
+    "role": "Design",
+    "Publicado": "2019-07-03T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://github.com/frontendbr/vagas/issues/2173",
+    "level": "Front-End Developer",
+    "company": "@MangoCinco",
+    "vendor": "frontendbr"
+  },
+  {
+    "role": "Programação, Front-End",
+    "Publicado": "2019-07-03T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://weworkremotely.com/remote-jobs/kafe-rocks-ltd-junior-backend-developer",
+    "level": "Junior Backend Developer",
+    "company": "@KaFe Rocks Ltd",
+    "vendor": "weworkremotely"
+  },
+  {
+    "role": "Programação, Back-End",
+    "Publicado": "2019-07-03T00:00:00.000Z",
+    "url": "https://github.com/frontendbr/vagas/issues/2172",
+    "level": "Front-end developer",
+    "company": "@Beetech",
+    "vendor": "frontendbr"
+  },
+  {
+    "role": "Programação, Front-End",
+    "Publicado": "2019-07-03T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://weworkremotely.com/remote-jobs/nearform-senior-react-node-developer",
+    "level": "Senior React/Node Developer",
+    "company": "@NearForm",
+    "vendor": "weworkremotely"
+  },
+  {
+    "role": "Programação, Back-End, Front-End",
+    "Publicado": "2019-07-03T00:00:00.000Z",
+    "url": "https://github.com/frontendbr/vagas/issues/2171",
+    "level": "Front-End Developer,",
+    "company": "@Pontaltech",
+    "vendor": "frontendbr"
+  },
+  {
+    "role": "Programação, Front-End",
+    "Publicado": "2019-07-03T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://weworkremotely.com/remote-jobs/turtle-entertainment-online-inc-senior-scala-developer",
+    "level": "Senior Scala Developer",
+    "company": "@Turtle Entertainment Online, Inc",
+    "vendor": "weworkremotely"
+  },
+  {
+    "role": "Programação",
+    "Publicado": "2019-07-03T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://remoteok.io/remote-jobs/73697",
+    "level": "Skilled Ruby developer",
+    "company": "@Motimate",
+    "vendor": "remoteok"
+  },
+  {
+    "role": "Programação, Back-End",
+    "Publicado": "2019-07-03T00:00:00.000Z",
+    "jobType": "REMOTO",
+    "url": "https://github.com/frontendbr/vagas/issues/2170",
+    "level": "Desenvolvedor front-end",
+    "company": "@Simbiose",
+    "vendor": "frontendbr"
+  }
+]

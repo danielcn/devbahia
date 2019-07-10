@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
 import Header from '../../components/Header/Header';
-import MediaCard from '../../components/Card/MediaCard';
+import MediaCard from '../../components/MediaCard/MediaCard';
 
 const fethedArray = [1, 2, 3, 4, 5 , 6, 7];
 

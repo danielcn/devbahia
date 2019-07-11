@@ -5,22 +5,7 @@ Site para listar todos os eventos de TI estão acontecendo na Bahia.
 
 Este é uma iniciativa para compilar e exibir os eventos de TI que estão ocorrendo na Bahia, será um espaço aberto para contribuição de todos os Devs.
 
-#### Executando o projeto
-
-#### Executando no docker
-
-#### Libs
-
 * [Material UI](https://material-ui.com)
-
-#### Styleguide
-
-#### Testando
-##### Testes unitários
-
-##### Testes funcionais
-
-
 
 #### Contribuindo
 

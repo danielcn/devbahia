@@ -11,7 +11,7 @@
     "test:coverage": "jest --coverage --colors"
   },
   "repository": "https://github.com/danielcn/devbahia.git",
-  "author": "Daniel Nascimento <danielcn@gmail.com>",
+  "author": "Daniel Nascimento <dao.daniel@gmail.com>",
   "license": "MIT",
   "private": false,
   "dependencies": {

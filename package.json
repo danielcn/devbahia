@@ -11,15 +11,14 @@
     "test:coverage": "jest --coverage --colors"
   },
   "repository": "https://github.com/danielcn/devbahia.git",
-  "author": "Daniel Nascimento <danascimen@thoughtworks.com>",
+  "author": "Daniel Nascimento <danielcn@gmail.com>",
   "license": "MIT",
   "private": false,
   "dependencies": {
     "@material-ui/core": "^3.2.0",
     "@material-ui/icons": "^3.0.1",
     "react": "^16.5.2",
-    "react-dom": "^16.5.2",
-    "stubby": "^4.1.0"
+    "react-dom": "^16.5.2"
   },
   "devDependencies": {
     "@babel/core": "^7.1.2",
@@ -34,6 +33,7 @@
     "enzyme": "^3.6.0",
     "enzyme-adapter-react-16": "^1.5.0",
     "jest": "^24.8.0",
+    "stubby": "^4.1.0",
     "react-test-renderer": "^16.5.2",
     "regenerator-runtime": "^0.12.1",
     "webpack": "^4.19.1",

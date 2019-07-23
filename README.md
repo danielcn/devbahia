@@ -15,7 +15,7 @@ Este é uma iniciativa para compilar e exibir os eventos de TI que estão ocorre
 
 #### Frontend
 
-#### Instaalando pacotes
+#### Instalando pacotes
 
 `yarn install`
 

@@ -12,8 +12,9 @@ class Event extends Component {
   }
 
   eventList() {
-    $.getJSON('https://localhost:88888')
-      .then(({ results }) => this.setState({ person: results }));
+    baseUrl = 'https://localhost:88888/';
+    endpoint = 'front/api/v1/jobs/';
+    $.getJSON(baseUrl + endpoint)  .then(({ results }) => this.setState({ person: results }));
   }
 
   render() {

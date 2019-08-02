@@ -12,7 +12,9 @@ class Jobs extends Component {
   }
 
   eventList() {
-    $.getJSON('https://localhost:88888')
+    baseUrl = 'https://localhost:88888/';
+    endpoint = 'front/api/v1/events/';
+    $.getJSON(baseUrl + endpoint)
       .then(({ results }) => this.setState({ jobs: results }));
   }
 

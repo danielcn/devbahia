@@ -1,4 +1,5 @@
 import React, {Component} from 'react'
+import axios from 'axios';
 
 class Jobs extends Component {
   constructor(props) {
@@ -12,10 +13,15 @@ class Jobs extends Component {
   }
 
   eventList() {
-    baseUrl = 'https://localhost:88888/';
-    endpoint = 'front/api/v1/events/';
-    $.getJSON(baseUrl + endpoint)
-      .then(({ results }) => this.setState({ jobs: results }));
+    const baseUrl = `https://localhost:88888/`;
+    const endpoint = `front/api/v1/events/`;
+
+    axios.get(baseUrl+endpoint)
+      .then(res => {
+        console.log(res.data)
+        const jobs = res.data;
+        this.setState({ jobs });
+      })
   }
 
   render() {

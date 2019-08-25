@@ -13,8 +13,10 @@ class Jobs extends Component {
   }
 
   eventList() {
-    const baseUrl = `https://localhost:88888/`;
+    const baseUrl = `https://localhost:1888/`;
     const endpoint = `front/api/v1/events/`;
+
+    console.log('estou aqui');
 
     axios.get(baseUrl+endpoint)
       .then(res => {

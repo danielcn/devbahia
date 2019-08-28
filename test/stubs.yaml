@@ -2,16 +2,13 @@
     url: /
     method: [HEAD]
   response:
-    status: 204
+    status: 200
     headers:
       content-type: application/json
 
 - request:
     url: /front/api/v1/events/.*
     method: GET
-    header:
-      authorization: "^(?=.*Bearer).*"
-      authorization-pismo: "^(?=.*Bearer).*"
   response:
     status: 200
     headers:

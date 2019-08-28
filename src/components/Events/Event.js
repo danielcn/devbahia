@@ -13,8 +13,15 @@ class Event extends Component {
   }
 
   eventList() {
-    const baseUrl = 'https://localhost:88888/';
+    const baseUrl = 'https://localhost:1888/';
     const endpoint = 'front/api/v1/jobs/';
+   
+    axios.get(`https://jsonplaceholder.typicode.com/users`)
+    .then(res => {
+      const persons = res.data;
+      console.log(persons)
+    })
+
 
     axios.get(baseUrl+endpoint)
       .then(res => {

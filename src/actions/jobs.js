@@ -1,6 +1,6 @@
-export function addEvent(text) {
+export function addJob(text) {
   return {
-    type: 'ADD_EVENT',
+    type: 'ADD_JOB',
     text,
   }
 }

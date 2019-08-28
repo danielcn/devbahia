@@ -1,8 +1,8 @@
-export default function events(state = [], action) {
-  // action = { type: ADD_TODO, text: 'Fazer café' }
+export default function jobs(state = [], action) {
+  // action = { type: ADD_JOB, text: 'Fazer café' }
 
   switch(action.type) {
-    case 'ADD_EVENT':
+    case 'ADD_JOB':
       return [ ...state, {
         id: Math.random(),
         text: action.text

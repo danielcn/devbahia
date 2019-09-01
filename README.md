@@ -12,6 +12,7 @@ Este é uma iniciativa para compilar e exibir os eventos de TI que estão ocorre
 * Crie uma branch nova a partir do seu repositório
 * Faça as alterações
 * Envie um PR para análise
+* Crie issues com os bugs que encontrar 
 
 #### Frontend
 

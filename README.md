@@ -35,3 +35,12 @@ Este é uma iniciativa para compilar e exibir os eventos de TI que estão ocorre
 #### Executando testes functional localmente
 
 `yarn test:functional`
+
+#### Executando no Docker
+
+Execute o build antes
+
+`yarn build`
+
+`docker build -t dev-bahia .`
+

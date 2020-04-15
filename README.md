@@ -14,31 +14,6 @@ Este é uma iniciativa para compilar e exibir os eventos de TI que estão ocorre
 * Envie um PR para análise
 * Crie issues com os bugs que encontrar 
 
-<<<<<<< Updated upstream
-#### Frontend
-
-#### Instalando pacotes
-
-`yarn install`
-
-#### Executando a aplicação
-
-`yarn start`
-
-#### Executando testes unitários
-
-`yarn test`
-
-#### Executando testes unitários com coverage
-
-`yarn test:coverage`
-
-#### Executando testes functional localmente
-
-`yarn test:functional`
-
-#### Executando no Docker
-=======
 
 ## Instação
 
@@ -64,16 +39,9 @@ $ yarn install
 ```shell
 $ yarn start
 ```
->>>>>>> Stashed changes
 
 ### Testes
 
-<<<<<<< Updated upstream
-`yarn build`
-
-`docker build -t dev-bahia .`
-
-=======
 > executando os testes unitários
 
 ```shell
@@ -106,4 +74,3 @@ $ yarn build
 ```shell
 $ docker build -t dev-bahia .
 ```
->>>>>>> Stashed changes

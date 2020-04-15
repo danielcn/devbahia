@@ -1,4 +1,4 @@
-## Dev Bahia
+# Dev Bahia
 
 Site para listar todos os eventos e oportunidades de TI que acontece na Bahia.
 
@@ -6,41 +6,40 @@ Este é uma iniciativa para compilar e exibir os eventos de TI que estão ocorre
 
 * [Material UI](https://material-ui.com)
 
-#### Contribuindo
+## Contribuindo
 
 * Faça um fork do projeto
 * Crie uma branch nova a partir do seu repositório
 * Faça as alterações e proposições de melhoras
 * Envie um PR para análise
-* Crie issues com os bugs que encontrar 
+* Crie issues com os bugs que encontrar
 
-#### Frontend
+## Frontend
 
-#### Instalando pacotes
+### Instalando pacotes
 
-`yarn install`
+```$ yarn install```
 
-#### Executando a aplicação
+### Executando a aplicação
 
-`yarn start`
+```$ yarn start```
 
-#### Executando testes unitários
+### Executando testes unitários
 
-`yarn test`
+```$ yarn test```
 
-#### Executando testes unitários com coverage
+### Executando testes unitários com coverage
 
-`yarn test:coverage`
+```$ yarn test:coverage```
 
-#### Executando testes functional localmente
+### Executando testes functionais localmente
 
-`yarn test:functional`
+```$ yarn test:functional```
 
-#### Executando no Docker
+### Executando no Docker
 
 Execute o build antes
 
-`yarn build`
+```$ yarn build```
 
-`docker build -t dev-bahia .`
-
+```$ docker build -t dev-bahia .```

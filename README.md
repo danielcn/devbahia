@@ -1,4 +1,4 @@
-# Dev Bahia
+## Dev Bahia
 
 Site para listar todos os eventos e oportunidades de TI que acontece na Bahia.
 
@@ -6,40 +6,71 @@ Este é uma iniciativa para compilar e exibir os eventos de TI que estão ocorre
 
 * [Material UI](https://material-ui.com)
 
-## Contribuindo
+#### Contribuindo
 
 * Faça um fork do projeto
 * Crie uma branch nova a partir do seu repositório
 * Faça as alterações e proposições de melhoras
 * Envie um PR para análise
-* Crie issues com os bugs que encontrar
+* Crie issues com os bugs que encontrar 
 
-## Frontend
 
-### Instalando pacotes
+## Instação
 
-```$ yarn install```
+- O `codigo` é requerido para iniciar
 
-### Executando a aplicação
 
-```$ yarn start```
+### Clone
 
-### Executando testes unitários
+- Clone esse repositório para a sua máquina local `https://github.com/danieln/devbahia`
 
-```$ yarn test```
+### Setup
 
-### Executando testes unitários com coverage
+- Passo a passo para o setup:
 
-```$ yarn test:coverage```
+> atualize e instale os pacotes
 
-### Executando testes functionais localmente
+```shell
+$ yarn install 
+```
 
-```$ yarn test:functional```
+> agora execute a aplicação
 
-### Executando no Docker
+```shell
+$ yarn start
+```
 
-Execute o build antes
+### Testes
 
-```$ yarn build```
+> executando os testes unitários
 
-```$ docker build -t dev-bahia .```
+```shell
+$ yarn test
+```
+
+> executando os testes unitários com coverage
+
+```shell
+$ yarn test:coverage
+```
+
+> executando os testes functionais localmente
+
+```shell
+$ yarn test:functional
+```
+
+
+### Usando o Docker
+
+> primeiro execute o build da aplicação
+
+```shell
+$ yarn build
+```
+
+> executando no docker
+
+```shell
+$ docker build -t dev-bahia .
+```

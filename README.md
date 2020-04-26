@@ -10,7 +10,7 @@ Este é uma iniciativa para compilar e exibir os eventos de TI que estão ocorre
 
 * Faça um fork do projeto
 * Crie uma branch nova a partir do seu repositório
-* Faça as alterações e proposições de melhoras
+* Faça as alterações e proposições de melhorias
 * Envie um PR para análise
 * Crie issues com os bugs que encontrar 
 
@@ -69,8 +69,15 @@ $ yarn test:functional
 $ yarn build
 ```
 
-> executando no docker
+> construa a máquina docker
 
 ```shell
 $ docker build -t dev-bahia .
+```
+
+
+> executando no docker
+
+```shell
+$ docker run -rm -d --name dev-bahia dev-bahia .
 ```

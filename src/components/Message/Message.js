@@ -25,4 +25,8 @@ const Message = ({ imgPath }) => {
   );
 };  
 
+Message.propTypes = {
+  imgPath: PropTypes.string.isRequired,
+};
+
 export default Message;

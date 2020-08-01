@@ -23,5 +23,6 @@ chrome-user-data
 *.swp
 *.swo
 
+
 # Ignoring terraform
 .terraform

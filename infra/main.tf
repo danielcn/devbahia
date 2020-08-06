@@ -2,11 +2,6 @@ provider "heroku" {
   version = "~> 2.0"
 }
 
-variable "dev_bahia" {
-  description = "Dev Bahia Portal"
-  default = "dev_bahia"
-}
-
 resource "heroku_app" "dev_bahia" {
   name = "${var.dev_bahia}"
   region = "us"

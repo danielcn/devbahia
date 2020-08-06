@@ -23,8 +23,6 @@ chrome-user-data
 *.swp
 *.swo
 
-# Ignoring yarn
-yarn.lock
 
 # Ignoring terraform
 .terraform
